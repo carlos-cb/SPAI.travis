@@ -11,6 +11,6 @@ branches:
 notifications:
   email:
     recipients:
-      - bei.chu@almunos.upm.es
+      - bei.chu@alumnos.upm.es
       
 script: mvn verify
